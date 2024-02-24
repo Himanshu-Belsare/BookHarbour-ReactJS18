@@ -9,8 +9,8 @@ export const Weekbook = () => {
     </div>
     <div className='text-center'>
         <h1 className='font-bold'>Book Of The Week</h1>
-        <p className='text-lg'>{Books[7].title}</p>
-        <p className='italic'>"Morgan Maxwell"</p>
+        <p className='text-lg'>"{Books[7].title}"</p>
+        <p className='italic'>Morgan Maxwell</p>
     </div>
     </div>
     

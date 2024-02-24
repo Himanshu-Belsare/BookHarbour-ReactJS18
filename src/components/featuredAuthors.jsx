@@ -1,6 +1,7 @@
 import { Authors } from "../data"
 
 
+
 export const FeaturedAuthors = () => {
   return (
     <>
